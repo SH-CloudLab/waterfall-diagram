@@ -2,6 +2,8 @@
 
 This plugin allows you to simply generate waterfall diagram with a short SQL querry. 
 
+![waterfall diagram demo2](https://user-images.githubusercontent.com/63361392/79580806-dcd5c380-80c9-11ea-9700-4a21c8b5f405.gif)
+
 Download the zip file and extract it in a folder.
 Go on your app page in APEX and then click on Shared componenents.
 - Click on Import
