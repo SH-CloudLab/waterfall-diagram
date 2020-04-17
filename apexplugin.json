@@ -1,0 +1,33 @@
+  
+{
+  "name" : "Waterfall Diagram demo app",
+  "version" : "V0.1 initial release",
+  "description" : "This plugin allows you to simply generate waterfall diagram with a short SQL querry.",
+  "keywords" : ["oracle", "apex", "plugin", "region", "generate", "S&H"],
+  "homepage" : "https://github.com/SH-CloudLab/waterfall-diagram",
+  "bugs" : {
+    "url" : "https://github.com/SH-CloudLab/waterfall-diagram/issues",
+  },
+  "author" : {
+    "name" : "S&H Cloudlab",
+    "email" : "wchoukroun@s-h.fr",
+    "url" : "https://apex.cloudlab-sh.com/ords/f?p=100:1:2394570237682:::::",
+    "twitter" : "https://twitter.com/S_H_Group"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/SH-CloudLab/waterfall-diagram"
+  },
+  "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1", "12.1.0.1", "12.2.0.1", "18.4.0.0", "19.0.0.0.0"],
+    "apex" : {
+      "versions" : ["5.1.3", "18.1.0.00.45", "18.2.0.00.12", "19.1.0.00.15", "19.2.0.00.18", "20.1.0.00.11"],
+      "plugin" : {
+        "internalName" : "COM.ORACLE.APEX.REGION_WATERFALL",
+        "type" : "region",
+        "demo" : "https://apex.cloudlab-sh.com/ords/f?p=100:1:3229002783576:::::",
+        "previewImage" : "![APEX-REGION-PLUGIN-DEMO](https://user-images.githubusercontent.com/63361392/79583418-620ea780-80cd-11ea-9e65-19e8e4ce6e88.png)"
+      }
+    }
+  }
+}
