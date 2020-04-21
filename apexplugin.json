@@ -26,7 +26,7 @@
         "internalName" : "COM.ORACLE.APEX.REGION_WATERFALL",
         "type" : "region",
         "demo" : "https://apex.cloudlab-sh.com/ords/f?p=100:1:3229002783576:::::",
-        "previewImage" : "![APEX-REGION-PLUGIN-DEMO](https://user-images.githubusercontent.com/63361392/79583418-620ea780-80cd-11ea-9e65-19e8e4ce6e88.png)"
+        "previewImage" : "https://user-images.githubusercontent.com/63361392/79583418-620ea780-80cd-11ea-9e65-19e8e4ce6e88.png"
       }
     }
   }
