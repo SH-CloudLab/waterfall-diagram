@@ -12,7 +12,7 @@
   "author" : {
     "name" : "S&H Cloudlab",
     "email" : "wchoukroun@s-h.fr",
-    "url" : "https://apex.cloudlab-sh.com/ords/f?p=100:1:2394570237682:::::",
+    "url" : "https://apex.cloudlab-sh.com/ords/f?p=100",
     "twitter" : "https://twitter.com/S_H_Group"
   },
   "repository" : {
@@ -26,7 +26,7 @@
       "plugin" : {
         "internalName" : "COM.ORACLE.APEX.REGION_WATERFALL",
         "type" : "region",
-        "demo" : "https://apex.cloudlab-sh.com/ords/f?p=100:1:3229002783576:::::",
+        "demo" : "https://apex.cloudlab-sh.com/ords/f?p=100",
         "previewImage" : "https://https://github.com/SH-CloudLab/waterfall-diagram/raw/master/preview.png"
       }
     }
