@@ -3,7 +3,7 @@
   "name" : "Waterfall Diagram demo app",
   "version" : "V0.1 initial release",
   "description" : "This plugin allows you to simply generate waterfall diagram with a short SQL querry.",
-  "keywords" : ["oracle", "apex", "plugin", "region", "generate", "S&H"],
+  "keywords" : ["oracle", "apex", "plugin", "region", "generate", "S&H", "waterfall", "diagram", "chart"],
   "homepage" : "https://github.com/SH-CloudLab/waterfall-diagram",
   "bugs" : {
     "url" : "https://github.com/SH-CloudLab/waterfall-diagram/issues",
