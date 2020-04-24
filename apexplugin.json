@@ -15,7 +15,7 @@
     "name" : "S&H Cloudlab",
     "email" : "wchoukroun@s-h.fr",
     "url" : "https://apex.cloudlab-sh.com/ords/f?p=100",
-    "twitter" : "https://twitter.com/S_H_Group"
+    "twitter" : "S_H_Group"
   },
   "repository" : {
     "type" : "git",
