@@ -29,7 +29,7 @@
         "internalName" : "COM.ORACLE.APEX.REGION_WATERFALL",
         "type" : "region",
         "demo" : "https://apex.cloudlab-sh.com/ords/f?p=100",
-        "previewImage" : "https://raw.githubusercontent.com/SH-CloudLab/waterfall-diagram/master/preview.png"
+        "previewImage" : "https://user-images.githubusercontent.com/63361392/79580806-dcd5c380-80c9-11ea-9700-4a21c8b5f405.gif"
       }
     }
   } 
